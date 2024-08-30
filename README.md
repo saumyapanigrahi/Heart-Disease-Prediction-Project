@@ -17,22 +17,3 @@ Model Evaluation:
 
 Evaluated models using various metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
 The Random Forest Classifier achieved the highest accuracy and balanced performance across all metrics, making it the most effective model for this dataset.
-How to Run the Code:
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/heart-disease-prediction.git
-Navigate to the project directory and install the required packages:
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter Notebook to reproduce the analysis and results.
-Key Files in This Repository:
-heart_disease.csv: The dataset used for analysis.
-Heart_Disease_Prediction_Using_Machine_Learning.ipynb: Jupyter Notebook containing all the code for data analysis, model training, and evaluation.
-requirements.txt: List of Python libraries required to run the code.
-Future Work:
-Explore advanced algorithms such as Gradient Boosting Machines or Deep Learning models.
-Implement feature engineering techniques to enhance model performance further.
-Contributing:
-Feel free to fork this repository, make enhancements, and submit pull requests. All suggestions are welcome!
